@@ -1,5 +1,5 @@
-import ConfigNode from '../src/ConfigNode';
-import ConfigNodeArray from '../src/ConfigNodeArray';
+import ConfigNode from '../../../../src/util/config-tree/ConfigNode';
+import ConfigNodeArray from '../../../../src/util/config-tree/ConfigNodeArray';
 
 describe('ConfigNode', () => {
     it('wraps around a string', () => {
@@ -43,6 +43,5 @@ describe('ConfigNode', () => {
         expect(node.children[1]).toBeDefined();
         expect(node.children[1].value).toBe('val2');
         expect(node.children[1].path).toBe('[1]');
-
     });
 });

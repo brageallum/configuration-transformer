@@ -1,26 +1,26 @@
 import _ from 'lodash';
 import ConfigNodeArray from './ConfigNodeArray';
-import StringMap from './util/types/StringMap';
-import Json from './util/types/Json';
-import JsonObject from './util/types/JsonObject';
+import StringMap from '../types/StringMap';
+import Json from '../types/Json';
+import JsonObject from '../types/JsonObject';
 
 type ConfigNodeKey = string | number;
 type ConfigNodeType = 'value' | 'object' | 'array';
 
-interface ConfigNodeOptions {
+export interface ConfigNodeOptions {
     parent?: ConfigNode;
     key?: ConfigNodeKey;
     attributes?: StringMap;
 }
 
 export default class ConfigNode {
-    private readonly _children: ConfigNodeArray;
-    private readonly _attributes: StringMap;
-    private readonly _type: ConfigNodeType;
-    private readonly _key: ConfigNodeKey;
-    private readonly _parent?: ConfigNode;
-    private readonly _path: string;
-    private readonly _value?: string;
+    protected _children: ConfigNodeArray;
+    protected _attributes: StringMap;
+    protected _type: ConfigNodeType;
+    protected _key: ConfigNodeKey;
+    protected _parent?: ConfigNode;
+    protected _path: string;
+    protected _value?: string;
 
     get parent(): ConfigNode | undefined {
         return this._parent;
@@ -60,15 +60,14 @@ export default class ConfigNode {
 
         if (_.isPlainObject(json)) {
             this._type = 'object';
-            this._children = this._objectChildrenToNodeArray(json);
         } else if (_.isArray(json)) {
             this._type = 'array';
-            this._children = this._arrayChildrenToNodeArray(json);
         } else {
             this._value = <string>json;
             this._type = 'value';
-            this._children = new ConfigNodeArray();
         }
+
+        this._children = this._extractChildren(json);
     }
 
     private _buildPath(): string {
@@ -86,12 +85,24 @@ export default class ConfigNode {
         return '';
     }
 
+    private _extractChildren(json: Json): ConfigNodeArray {
+        if (this._type === 'object') {
+            return this._objectChildrenToNodeArray(json);
+        } else if (this._type === 'array') {
+            return this._arrayChildrenToNodeArray(json);
+        } else {
+            return new ConfigNodeArray();
+        }
+    }
+
     private _objectChildrenToNodeArray(json: Json) {
         const jsonObject = <JsonObject>json;
         return new ConfigNodeArray(
             ...Object.keys(jsonObject).map(
                 (childKey: string) =>
-                    new ConfigNode(<Json>jsonObject[childKey], {
+                    // @ts-ignore
+                    // eslint-disable-next-line @typescript-eslint/no-unsafe-return
+                    new this.constructor(<Json>jsonObject[childKey], {
                         parent: this,
                         key: childKey,
                     }),
@@ -104,7 +115,9 @@ export default class ConfigNode {
         return new ConfigNodeArray(
             ...jsonArray.map(
                 (child: Json, index: number) =>
-                    new ConfigNode(child, {
+                    // @ts-ignore
+                    // eslint-disable-next-line @typescript-eslint/no-unsafe-return
+                    new this.constructor(child, {
                         parent: this,
                         key: index,
                     }),

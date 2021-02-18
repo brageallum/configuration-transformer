@@ -15,6 +15,7 @@ module.exports = {
     'plugin:prettier/recommended',
   ],
   "rules": {
-    "@typescript-eslint/restrict-template-expressions": "off"
+    "@typescript-eslint/restrict-template-expressions": "off",
+    "@typescript-eslint/ban-ts-comment": "off"
   }
 };
