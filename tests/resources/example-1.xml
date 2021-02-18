@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic xmlns="http://xmlns.escenic.com/2009/import" version="2.0">
+<content source="ece-auto-gen" sourceid="15d9d4e5-5a71-47fa-bfb0-fa48f4cca98e" exported-dbid="22825951" type="news" state="published" publishdate="2020-10-16 09:29:39.0" creationdate="2020-10-15 12:30:56.0" last-modified="2020-10-16 09:29:39.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_frontpage"/>
+    <section-ref unique-name="campus" home-section="true"/>
+    <uri>2020/10/16/Stor-etterspørsel-etter-å-leie-Kongsvoll-22825951.ece</uri>
+    <relation type="teaserRel" source="ua_ece5" sourceid="34074" exported-dbid="18359000">
+        <field name="title">kongsvoll 1</field>
+        <field name="caption">kongsvoll 1</field>
+        <field name="photographer">Tor H. Monsen</field>
+    </relation>
+    <relation type="topRel" source="ua_ece5" sourceid="34074" exported-dbid="18359000">
+        <field name="title">kongsvoll 1</field>
+        <field name="caption">Stinn brakke. Stor interesse for å bruke Kongsvoll. – Det er en utrolig bra respons fra NTNUs ansatte, sier NTLs Thomas Ferstad.</field>
+        <field name="photographer">Tor H. Monsen</field>
+    </relation>
+    <priority value="0"/>
+    <creator first-name="Mari" last-name="Rian Hanger" email-address="mari.r.hanger@ntnu.no" username="maririanh"/>
+    <author uri="internal:/person/44827" username="maririanh" first-name="Mari" last-name="Rian Hanger" email-address="mari.r.hanger@ntnu.no"/>
+    <field name="title">Stor etterspørsel etter å leie Kongsvoll</field>
+    <field name="leadtext">Kongsvoll er nå bortleid halvparten av helgene det neste året. – Fantastisk, sier Thomas Ferstad i NTL.</field>
+    <field name="body">
+        <p xmlns="">NTL kjempet hardt for å beholde Kongsvoll vokterbolig i NTNUs eie, da NTNU i høst vurderte å selge hytta.</p>
+        <p xmlns="">Til slutt ble det enighet om en ettårig prøveperiode, for å se om bruken av eiendommen kan komme til å øke hvis tilbudet blir mer kjent.</p>
+        <p xmlns="">
+            <strong>Les mer: 
+                <a href="https://www.universitetsavisa.no/incoming/2020/08/12/NTNU-vil-kvitte-seg-med-Kongsvoll-vokterbolig-22465419.ece" target="_blank">NTNU vil kvitte seg med Kongsvoll</a>
+            </strong>
+        </p>
+        <p xmlns="">
+            <strong>Les mer: 
+                <a href="https://www.universitetsavisa.no/campus/2020/08/18/Selger-ikke-Kongsvoll-foreløpig-22503075.ece" target="_blank">Selger ikke Kongsvoll - foreløpig</a>
+            </strong>
+        </p>
+        <p xmlns="">Nå forteller Thomas Ferstad i NTL at tiltakene for å gjøre Kongsvoll mer kjent, ser ut til å ha virket.</p>
+        <p xmlns="">– Fra uke 40 i år fram til og med uke 39 neste år, er begge leilighetene opptatt 18 helger, og én av to er utleid åtte ganger. I tillegg er det noen uker hvor det også er belegg i ukedagene. Det betyr at på knappe to uker er Kongsvoll opptatt halvpartene av helgene det neste året. Det er fantastisk! sier Ferstad.</p>
+        <h2 xmlns="">Tyder på at Kongsvoll må beholdes </h2>
+        <p xmlns="">NTL NTNU mener dette tydelig viser at det er interesse for å bruke Kongsvoll.</p>
+        <p xmlns="">– Det er en utrolig bra respons fra NTNUs ansatte! Vi synes det er veldig gledelig. Det er nok kanskje også et uttrykk for at dette tilbudet har vært for lite kjent, selv om Kongsvoll har vært på NTNUs hender i snart 40 år! sier han.</p>
+        <p xmlns="">Avtalen med NTNU er at det kommende året blir en prøveperiode for å se om det er grunnlag for å beholde Kongsvoll.</p>
+        <p xmlns="">– Ut i fra responsen mener jeg allerede nå vi kan konkludere med at det er det, sier Ferstad.</p>
+        <h2 xmlns="">Bør gjøre utbedringer der</h2>
+        <p xmlns="">For NTL er det viktig at råderetten over Kongsvoll flyttes fra Eiendomsavdelinga til HR- og HMS- seksjonen.</p>
+        <p xmlns="">– Dette bør ikke sees på som eiendomsforvaltning, men som et velferdstilbud, sier Ferstad. </p>
+        <p xmlns="">NTL vil også at NTNU skal gjenoppta vedlikeholdsplanen som foreligger for Kongsvoll. </p>
+        <p xmlns="">– Det er viktig å både få bytta kjøkkeninnredning, gulv og få utbedret sengene. Dette er nødvendige utbedringer for å gjøre det mer innbydende å bruke Kongsvoll. Heldigvis har NTNU dyktige fagfolk på Campusservice som forhåpentligvis kan bidra i dette arbeidet, sier Ferstad.</p>
+        <h2 xmlns="">Ingen lovnad</h2>
+        <p xmlns="">Til tross for god etterspørsel, vil eiendomssjef Lindis Burheim ennå ikke love at tilbudet videreføres.</p>
+        <p xmlns="">– Som kjent har vi sammen prøvd å gjøre tilbudet bedre kjent for å se om bruken øker. Vi vil hente erfaringer fra bruken over hele året før vi gjør en ny vurdering av om vi skal beholde Kongsvoll, svarer Burheim på mail.</p>
+        <p xmlns="">
+            <em>– Har det vært diskutert å flytte ansvaret for Kongsvoll over til HR-avdelingen?</em>
+        </p>
+        <p xmlns="">
+            <em>– </em>Overflytting av råderetten til HR/HMS avdelingen har ikke vært diskutert, men ved vurderingene av et eventuelt salg var det dialog med HMS/HR-avdelingen, svarer Burheim.
+        </p>
+        <p xmlns="">Hun sier også at det ble gjort noen mindre utbedringer ved Kongsvoll i høst.</p>
+        <p xmlns="">– Ut over det har vi ikke planer om å gjøre ytterligere utbedringer før vi på nytt har vurdert om vi skal beholde Kongsvoll, svarer Burheim. </p>
+        <p xmlns="">
+            <strong>Følg UA på 
+                <a href="https://www.facebook.com/Universitetsavisa">Facebook</a>, 
+                <a href="https://twitter.com/Universitetavis">Twitter</a> og 
+                <a href="https://www.instagram.com/universitetsavisa/">Instagram</a>.
+            </strong>
+        </p>
+        <p xmlns=""> </p>
+    </field>
+</content>
+<content source="ece-auto-gen" sourceid="3c169df6-4570-4ace-a8b7-7b49a2976caa" exported-dbid="22827151" type="news" state="draft" creationdate="2020-10-15 14:54:10.0" last-modified="2020-10-15 17:07:37.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_frontpage"/>
+    <section-ref unique-name="ece_incoming" home-section="true"/>
+    <uri>article22827151.ece</uri>
+    <relation type="teaserRel" source="ece-auto-gen" sourceid="41f00cb5-0600-4aa8-9773-9301265b426d" exported-dbid="22828078">
+        <field name="title">4H0A0096.jpg</field>
+        <field name="caption">Handelshøyskolen campus ntnu</field>
+        <field name="photographer">Jahn Ivar Kjølseth</field>
+    </relation>
+    <relation type="topRel" source="ece-auto-gen" sourceid="41f00cb5-0600-4aa8-9773-9301265b426d" exported-dbid="22828078">
+        <field name="title">4H0A0096.jpg</field>
+        <field name="caption">Ifølge student Maria Heggestad, har studenter ved NTNU Handelshøyskolen diskutert med andre studenter om å møte opp på eksamen uansett om de har symptomer. Nå har studentene ved Handelshøyskolen fått bekreftet at alle høsteksamenene blir digitale hjemmeeksamener.</field>
+        <field name="photographer">Jahn Ivar Kjølseth</field>
+    </relation>
+    <priority value="0"/>
+    <creator first-name="Jahn Ivar" last-name="Kjølseth" email-address="jahnikjolseth90@gmail.com" username="jahnik"/>
+    <author uri="internal:/person/46577" username="jahnik" first-name="Jahn" last-name="Ivar Kjølseth" email-address="jahnikjolseth90@gmail.com"/>
+    <field name="title">Studenter vurderer å møte opp til eksamen selv om de har symptomer</field>
+    <field name="leadtext">Flere studenter er redde for å havne bak i studieløpet om de blir syke og ikke kan møte opp på fysisk eksamen. Student Maria Heggestad ber NTNU rydde opp.</field>
+    <field name="body">
+        <p xmlns="">
+            <em>Merk: NTNU Handelshøyskolen har nylig bestemt at alle eksamener ved fakultetet skal besvares som hjemmeeksamener. Intervjuet av Heggestad ble utført før denne beskjeden kom.</em>
+        </p>
+        <p xmlns="">– Så og si alle jeg har snakket med på studiet har fortalt at de kommer til å møte opp på fysisk eksamen, uansett om de har forkjølelsessymptomer eller ikke, sier Maria Heggerud.</p>
+        <p xmlns="">Hun studerer ved NTNU Handelshøyskolen og er kritisk til NTNUs overordnede praksis om at flest mulig av fagene i høst skal ha skoleeksamensform – altså at studentene må møte opp fysisk til et lokale og gjennomføre eksamen i samme rom som andre studenter.</p>
+        <p xmlns="">– Konsekvensene blir bare for store for enkelte studenter ved å ikke møte opp på eksamen. Kullet mitt skal fullføre bachelorgraden dette studieåret, og hvis man må utebli fra eksamen så er det ikke sikkert man får tatt kontinuasjonseksamen før i august. Da risikerer vi å stå uten vitnemål til normert tid, sier Heggestad.</p>
+        <p xmlns="">Hun legger til at eksamensperioden foregår i influensasesong, som gjør at flere kan ha symptomer uten å være smittet. </p>
+        <h2 xmlns="">– Kan ikke gjennomføres forsvarlig</h2>
+        <p xmlns="">Heggestad går ut ifra at mange av eksamenene holdes på NTNU-lokalene på Sluppen, samt idrettsbygget på Dragvoll. </p>
+        <p xmlns="">– Av erfaring er alle de aktuelle bussene stappfulle i timene før eksamen, og da mener jeg stappfulle.</p>
+        <p xmlns="">Heggestad forteller at avstanden mellom studentene er god nok under selve eksamen, men at det er like før og like etter eksamen det kan bli problemer.</p>
+        <p xmlns="">– I tillegg til trange busser blir det vanskelig å holde én-metersregelen når store grupper av studenter skal geleides inn og ut av lokalene. Jeg kan ikke forstå at dette kan gjennomføres forsvarlig.</p>
+        <h2 xmlns="">Ingeniørstudenter urolige</h2>
+        <p xmlns="">Også hos bachelorstudentene ved elektroingeniør rapporteres det om bekymring for å ikke kunne ta eksamen på grunn av smittefare.</p>
+        <p xmlns="">– Jeg kan ikke bekrefte at bachelor-studenter ved elektroingeniør-studiet snakker om å møte opp til fysisk eksamen selv om de har symptomer, men jeg kan bekrefte at studentene er bekymret for å ikke kunne møte opp, sier Annik Rise, instituttillitsvalg for elektroingeniør bachelor, ved Institutt for elektroniske systemer.</p>
+        <p xmlns="">Hun forteller at ingeniørstudentene ønsker seg digitale eksamener, for å være helt sikre på at de kan gjennomføre eksamenene og ha rett til karakter.</p>
+        <p xmlns="">– Jeg er redd for at terskelen for å holde seg hjemme blir for høy, om eksamenene skal gjennomføres fysisk. Det har gått fint for studentene å droppe forelesninger hvis de er syke, men å ikke møte opp til en eksamen kan få langt større konsekvenser. I tillegg er studentene også nervøse for å bli smittet på eksamen like før juleferien.</p>
+        <h2 xmlns="">Savner tiltak</h2>
+        <p xmlns="">Studentene har også fått beskjed om at faglærer ikke vil møte opp fysisk til eksamen, men heller vil være tilgjengelig på telefon om det er noe.</p>
+        <p xmlns="">– Det er så klart forståelig, men samtidig sender det ut et rart signal. Er det slik at de individuelle faglærerne skal skjermes for potensiell smitte, mens studentmassen må ta risikoen, spør Heggestad.</p>
+        <p xmlns="">Heggestad sier hun selv foretrekker skoleeksamen foran hjemmeeksamener, men at situasjonen er såpass prekær at man burde finne andre former å gjennomføre eksamen i.</p>
+        <p xmlns="">– Jeg savner virkelig en mer helhetlig strategi fra NTNU, sier hun.</p>
+        <h2 xmlns="">Studenttinget: – Legitim bekymring</h2>
+        <p xmlns="">Leder for studenttinget, Åste Solheim Hagerup, bekrefter at de har fått flere henvendelser fra studenter som er nervøse for å ikke kunne gjennomføre eksamener i høst.</p>
+        <p xmlns="">– Det er en helt reell og legitim bekymring å ha. NTNU skal tilrettelegge for at personer som ikke kan møte opp skal få tatt opp eksamen så raskt som mulig, aller helst i januar. Men om man går glipp av si opp til 3-4 eksamener så blir det selvfølgelig vanskelig, sier hun. </p>
+        <p xmlns="">Hun mener NTNU burde vært mer tydelig overfor studentene tidlig om hvordan dette skal gjennomføres i praksis. </p>
+        <p xmlns="">– Dette er en kjempeutfordring. Jeg tror at studentenes bekymringer hadde vært mindre om man hadde mottatt mer konkret informasjon.</p>
+        <p xmlns="">Hun stiller seg bak kritikken fra Heggestad om at NTNU burde komme mer på banen, og revurdere planene for eksamensform.</p>
+        <p xmlns="">– Jeg syns det er veldig spesielt at NTNU prioriterer slikt som de gjør. Jeg har forstått det slik at man ønsker en eksamensform som er vanskeligere å jukse på, men at det blir prioritert foran smittevern synes jeg er en merkelig beslutning. Jeg savner et ordentlig argument fra NTNU på hvorfor man skal gå inn for å ha fysiske skoleeksamener, sier Hagerup. </p>
+        <p xmlns="">Hun kommer med klare oppfordringer til NTNU-studentene.</p>
+        <p xmlns="">– Ikke dra på fysisk eksamen om du har symptomer. Vi i Studenttinget skal jobbe for at flest mulig eksamener blir digitale og at studentene blir prioritert.</p>
+    </field>
+</content>
+<content source="ece-auto-gen" sourceid="7517a6e3-0911-4074-9723-3b11d10a1c93" exported-dbid="21010936" type="news" state="deleted" creationdate="2020-02-05 15:03:49.0" last-modified="2020-02-05 16:11:35.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_incoming" home-section="true"/>
+    <uri>article21010936.ece</uri>
+    <priority value="0"/>
+    <creator first-name="Solveig" last-name="Mikkelsen" username="smikkelsen"/>
+    <author uri="internal:/person/44823" username="smikkelsen" first-name="Solveig" last-name="Mikkelsen"/>
+    <field name="kicker">BOTT-samarbeidet:</field>
+    <field name="title">Forskerforbundet vil ha medbestemmelse </field>
+    <field name="leadtext">Hele universitets- og høgskolesektoren kan få felles administrative og tekniske tjenester. Forskerforbundet krever derfor en omstillingsavtale som sikrer medbestemmelse for hele sektoren.</field>
+    <field name="body">
+        <p xmlns="">
+            <a href="http://twitter.com/intent/tweet?text=Forskerforbundet+krever+medbestemmelse+i+BOTT-samarbeidet&amp;url=https%3A%2F%2Fwww.uniforum.uio.no%2Fnyheter%2F2020%2F02%2Fforskerforbundet-krever-medbestemmelse-i-bott-sama.html">r</a>
+            <img alt="" src="https://www.uniforum.uio.no/nyheter/2019/11/bilder/belinda-skjostad-ntl-2-copy.jpg"/>
+        </p>
+        <p xmlns="">ETTERLYSER MEDBESTEMMELSE: – De tillitsvalgte er ikke blitt inkludert i styringsgrupper eller prosjektgrupper i arbeidet med BOTT-prosjektet ved UiO, påpeker hovedtillitsvalgt Belinda Eikås Skjøstad.</p>
+        <p xmlns="">Foto: Ola Gamst Sæther</p>
+        <p xmlns="">BOTT er et samarbeid mellom universitetene i Bergen, Oslo, Tromsø og Trondheim om felles, standardiserte, administrative og tekniske tjenester og prosesser.</p>
+        <p xmlns="">Forskerforbundet har i et brev til Kunnskapsdepartementet bedt om at de ansattes representasjon sikres gjennom en omstillingsavtale for prosjektet.</p>
+        <p xmlns="">Hovedtillitsvalgt for Forskerforbundet ved UiO 
+            <em>Belinda Eikås Skjøstad</em> opplyser at bakgrunnen for brevet er et notat fra UiO-ledelsen om status for delprosjektet 
+            <em>BOTT økonomi og lønn</em> som ble presentert for de tillitsvalgte i februar 2019.
+        </p>
+        <p xmlns="">Dette er et delprosjekt hvor de fire universitetene i prosjektet skal komme fram til standardiserte arbeidsprosesser og rutiner innenfor økonomi- og lønnsområdet. I notatet blir det presisert at målsettingen er like, digitale og forenklede arbeidsprosesser og rutiner, i tillegg til effektive tjenester og løsninger tilpasset de digitale løsningene til Direktoratet for økonomistyring (DFØ).</p>
+        <p xmlns="">Les også i Uniforum: 
+            <a href="https://www.uniforum.uio.no/nyheter/2018/06/ja-til-bott.html">Nå har alle BOTT-universitetene sagt ja til DFØ</a>
+        </p>
+        <h3 xmlns="">BOTT kan bli standard for hele sektoren</h3>
+        <p xmlns="">I notatet kommer det også fram at Kunnskapsdepartementet på lengre sikt ønsker BOTT-standarden på økonomi- og lønnsområdet som en standard for hele sektoren.</p>
+        <p xmlns="">Ønsket om en felles standard for hele sektoren er ifølge Belinda Eikås Skjøstad utgangspunktet for at Forskerforbundets representanter ved UiO tok kontakt med Forskerforbundet sentralt.</p>
+        <p xmlns="">Forskerforbundet sendte i februar 2019 et brev til Kunnskapsdepartementet med et krav om en omstillingsavtale for BOTT-prosjektet. I brevet viser Forskerforbundet til hovedavtalen §11. som sier at det skal fastsettes en egen avtale om hvordan medbestemmelse skal utøves i saker hvor arbeidssituasjonen til arbeidstakere i flere virksomheter vil bli vesentlig berørt.</p>
+        <p xmlns="">Forskerforbundet fikk imidlertid ikke medhold fra Kunnskapsdepartementet i denne saken. «Departementet har sett nærmere på saken og vurderer det slik at det foreløpig er §12 Medbestemmelse i prosjekter og styringsgrupper som gjelder. Dette fordi prosjektet/universitetene ikke er i omstilling per i dag. Vi forutsetter dermed at medbestemmelsen ivaretas etter hovedavtalens §12 ved universitetene som deltar i BOTT-prosjektet. Det kan bli aktuelt med omstillingsavtale på et senere tidspunkt, og da må omstillingsavtalene inngås ved alle de fire deltakende universitetene og ikke for selve BOTT-prosjektet» skriver departementet i sitt svarbrev.</p>
+        <h3 xmlns="">Avventer informasjon</h3>
+        <p xmlns="">Hovedsammenslutningen 
+            <a href="https://www.unio.no/">UNIO</a> tok etter dette saken videre til Kunnskaps- og moderniseringsdepartementet (KMD).
+        </p>
+        <p xmlns="">I en epost datert 19. mars ber Unio KMD vurdere kravet fra Forskerforbundet. «Ettersom dette prosjektet omfatter flere virksomheter er vår mening at det skal inngås en omstillingsavtale for prosjektet jf. hovedavtalen § 11. Dette for å sikre de tillitsvalgtes medbestemmelse».</p>
+        <p xmlns="">I desember kommer tilbakemeldingen fra KMD. «Vi har kontaktet Kunnskapsdepartementet og bedt om tilbakemelding på om ansatte eller tillitsvalgte fra de berørte virksomhetene er representert i arbeidet. Vi avventer derfor nærmere tilbakemelding på spørsmålet før vi kan besvare henvendelsene fra Unio» skriver KMD i sitt svarbrev.</p>
+        <h3 xmlns="">Krever medbestemmelse for hele sektoren</h3>
+        <p xmlns="">Belinda Eikås Skjøstad håper på en rask avklaring. Hun forteller at UiO-ledelsen har lovet å legge fram en oversikt over hvordan de tillitsvalgtes medbestemmelse skal sikres så snart som mulig.</p>
+        <p xmlns="">
+            <em>– Kunnskapsdepartementet viser til §12 i hovedavtalen som slår fast at medbestemmelse skal utøves der hvor det etableres prosjekter, styringsgrupper, interimorganisasjoner e.l. i saker som kan få vesentlig betydning for de ansattes arbeidssituasjon. Hvorfor er ikke dette tilstrekkelig?</em>
+        </p>
+        <p xmlns="">– Utgangspunktet for at vi mener det er behov for en omstillingsavtale for hele prosjektet, er at Kunnskapsdepartementet ser for seg at BOTT-standardene på sikt skal omfatte hele universitets- og høgskolesektoren. Det som landes i BOTT-prosjektene, kan altså komme til å gjelde også for institusjoner som per i dag ikke er inkludert i samarbeidet, presiserer Eikås Skjøstad.</p>
+        <p xmlns="">– Hensikten med en slik omstillingsavtale er med andre ord å koordinere og sikre medbestemmelse på vegne av hele sektoren, poengterer hun.</p>
+        <h3 xmlns="">Krever medbestemmelse på UiO</h3>
+        <p xmlns="">
+            <em>– Forskerforbundet ønsker en omstillingsavtale for å få medvirkning på tvers av prosjektet. Vil det si at dere anser den lokale medbestemmelsen på UiO som ivaretatt?</em>
+        </p>
+        <p xmlns="">På dette spørsmålet svarer Forskerforbundets hovedtillitsvalgte benektende. Hun forteller at fagforeningene tok opp manglende medbestemmelse på informasjons-, drøftings- og forhandlingsmøtet (IDF) mellom arbeidsgiver og fagforeningene 30. januar.</p>
+        <p xmlns="">– Vi meldte fra om at vi ikke er blitt inkludert i styringsgrupper eller prosjektgrupper i BOTT-samarbeidet. Det vil si at vi ikke har fått mulighet til å ta ut vår medbestemmelse. Vi har fått god informasjon underveis, men det er ikke det samme, understreker hun.</p>
+        <p xmlns="">– En annen tilbakemelding fra oss har vært at det også må informeres bedre om prosjektene til ledere på lokale enheter. Disse må følge opp med informasjon i lokale IDF-møter. Mange av våre medlemmer sliter med å se konsekvenser av arbeidet som pågår, sier hun.</p>
+        <p xmlns="">
+            <a href="https://www.uio.no/for-ansatte/arbeidsstotte/prosjekter/adm-forbedring-digitalisering/bott.html">
+                <strong>BOTT-samarbeidet</strong>
+            </a>
+        </p>
+        <p xmlns="">BOTT er et samarbeid mellom universitetene i Bergen, Oslo, Tromsø og Trondheim om felles, standardiserte administrative og tekniske tjenester og prosesser.</p>
+        <p xmlns="">Formålet er å styrke universitetenes evne til å levere administrative og tekniske tjenester som støtter opp om primærvirksomheten.</p>
+        <p xmlns="">De største delprosjektene i samarbeidet er 
+            <em>Saksbehandling- og arkiv</em>, 
+            <em>Økonomi og Lønn</em> og 
+            <em>HR prosjektet</em>.
+        </p>
+        <h3 xmlns="">Uro blant de UiO-ansatte</h3>
+        <p xmlns="">Det er ifølge Belinda Eikås Skjøstad mye uro knyttet til BOTT-samarbeidet blant de teknisk og administrative ansatte ved UiO.</p>
+        <p xmlns="">– Universitetet i Oslo har kommet lengst i arbeidet med BOTT. Det er mye som skjer nå, og det er mye for de ansatte å sette seg inn i. Samtidig er det også mange andre prosjekter i gang, påpeker hun, og trekker fram Avbyråkratiserings-og effektivitetsreformen (ABE) som eksempel på en prosess som pågår parallelt med BOTT-arbeidet.</p>
+        <p xmlns="">Les også i Uniforum: Gir ABE-reforma og IHR skulda for underskotet</p>
+        <p xmlns="">– Det er frykt for at stillinger blir effektivisert bort, og universitetsledelsen vil heller ikke garantere at det ikke blir oppsigelser. I en slik situasjon er det avgjørende å sikre at de tillitsvalgtes rett til medbestemmelse blir ivaretatt.</p>
+    </field>
+</content>
+<content source="ua_ece5" sourceid="34074" exported-dbid="18359000" type="picture" state="published" publishdate="2012-05-30 13:40:16.0" creationdate="2012-05-30 13:40:16.0" last-modified="2012-05-30 13:40:33.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_frontpage"/>
+    <section-ref unique-name="ece_incoming" home-section="true"/>
+    <uri>article18359000.ece/3loiq6</uri>
+    <priority value="0"/>
+    <field name="title">kongsvoll 1</field>
+    <field name="caption">kongsvoll 1</field>
+    <field name="photographer">Tor H. Monsen</field>
+    <field name="binary" title="d63f0e965810c7ba4070a35ebbfef6d8.JPG">d63f0e965810c7ba4070a35ebbfef6d8_binary_18359000.JPG</field>
+    <field name="com.escenic.defaultmetadata">
+        <value>
+            <field name="key">Exif Version</field>
+            <field name="value">2.30</field>
+        </value>
+        <value>
+            <field name="key">Components Configuration</field>
+            <field name="value">YCbCr</field>
+        </value>
+        <value>
+            <field name="key">Thumbnail Compression</field>
+            <field name="value">JPEG (old-style)</field>
+        </value>
+        <value>
+            <field name="key">Focal Length</field>
+            <field name="value">14.2 mm</field>
+        </value>
+        <value>
+            <field name="key">YCbCr Positioning</field>
+            <field name="value">Datum point</field>
+        </value>
+        <value>
+            <field name="key">Date/Time Original</field>
+            <field name="value">2012:05:25 21:23:40</field>
+        </value>
+        <value>
+            <field name="key">Shutter Speed Value</field>
+            <field name="value">1/541 sec</field>
+        </value>
+        <value>
+            <field name="key">X Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">X Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">Brightness Value</field>
+            <field name="value">9.44</field>
+        </value>
+        <value>
+            <field name="key">Focal Plane Resolution Unit</field>
+            <field name="value">cm</field>
+        </value>
+        <value>
+            <field name="key">Copyright</field>
+            <field name="value"> </field>
+        </value>
+        <value>
+            <field name="key">F-Number</field>
+            <field name="value">F5.6</field>
+        </value>
+        <value>
+            <field name="key">Sensitivity Type</field>
+            <field name="value">Standard Output Sensitivity</field>
+        </value>
+        <value>
+            <field name="key">Application Record Version</field>
+            <field name="value">0</field>
+        </value>
+        <value>
+            <field name="key">Exposure Program</field>
+            <field name="value">Landscape mode</field>
+        </value>
+        <value>
+            <field name="key">height</field>
+            <field name="value">750</field>
+        </value>
+        <value>
+            <field name="key">mime-type</field>
+            <field name="value">image/jpeg</field>
+        </value>
+        <value>
+            <field name="key">File Source</field>
+            <field name="value">Digital Still Camera (DSC)</field>
+        </value>
+        <value>
+            <field name="key">format</field>
+            <field name="value">JPEG</field>
+        </value>
+        <value>
+            <field name="key">Exposure Time</field>
+            <field name="value">1/500 sec</field>
+        </value>
+        <value>
+            <field name="key">ISO Speed Ratings</field>
+            <field name="value">100</field>
+        </value>
+        <value>
+            <field name="key">Make</field>
+            <field name="value">FUJIFILM</field>
+        </value>
+        <value>
+            <field name="key">Metering Mode</field>
+            <field name="value">Multi-segment</field>
+        </value>
+        <value>
+            <field name="key">Orientation</field>
+            <field name="value">Top, left side (Horizontal / normal)</field>
+        </value>
+        <value>
+            <field name="key">Focal Plane Y Resolution</field>
+            <field name="value">1/3205 cm</field>
+        </value>
+        <value>
+            <field name="key">Exif Image Height</field>
+            <field name="value">750 pixels</field>
+        </value>
+        <value>
+            <field name="key">Software</field>
+            <field name="value">Adobe Photoshop CS3 Macintosh</field>
+        </value>
+        <value>
+            <field name="key">original-mime-type</field>
+            <field name="value">image/jpeg</field>
+        </value>
+        <value>
+            <field name="key">Y Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">Y Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">Scene Type</field>
+            <field name="value">Directly photographed image</field>
+        </value>
+        <value>
+            <field name="key">content-length</field>
+            <field name="value">431644</field>
+        </value>
+        <value>
+            <field name="key">Print IM</field>
+            <field name="value">[106 bytes]</field>
+        </value>
+        <value>
+            <field name="key">FlashPix Version</field>
+            <field name="value">1.00</field>
+        </value>
+        <value>
+            <field name="key">Focal Plane X Resolution</field>
+            <field name="value">1/3205 cm</field>
+        </value>
+        <value>
+            <field name="key">Compressed Bits Per Pixel</field>
+            <field name="value">4 bits/pixel</field>
+        </value>
+        <value>
+            <field name="key">White Balance</field>
+            <field name="value">Unknown</field>
+        </value>
+        <value>
+            <field name="key">Sensing Method</field>
+            <field name="value">One-chip color area sensor</field>
+        </value>
+        <value>
+            <field name="key">last-modified</field>
+            <field name="value">1548885462000</field>
+        </value>
+        <value>
+            <field name="key">Color Space</field>
+            <field name="value">sRGB</field>
+        </value>
+        <value>
+            <field name="key">Copyright Notice</field>
+            <field name="value"> </field>
+        </value>
+        <value>
+            <field name="key">Date/Time Digitized</field>
+            <field name="value">2012:05:25 21:23:40</field>
+        </value>
+        <value>
+            <field name="key">Flash</field>
+            <field name="value">Flash did not fire, auto</field>
+        </value>
+        <value>
+            <field name="key">Aperture Value</field>
+            <field name="value">F5.7</field>
+        </value>
+        <value>
+            <field name="key">Date/Time</field>
+            <field name="value">2012:05:27 19:49:36</field>
+        </value>
+        <value>
+            <field name="key">Exif Image Width</field>
+            <field name="value">1000 pixels</field>
+        </value>
+        <value>
+            <field name="key">Sharpness</field>
+            <field name="value">None</field>
+        </value>
+        <value>
+            <field name="key">Resolution Unit</field>
+            <field name="value">Inch</field>
+        </value>
+        <value>
+            <field name="key">Resolution Unit</field>
+            <field name="value">Inch</field>
+        </value>
+        <value>
+            <field name="key">Exposure Bias Value</field>
+            <field name="value">0 EV</field>
+        </value>
+        <value>
+            <field name="key">Subject Distance Range</field>
+            <field name="value">Unknown</field>
+        </value>
+        <value>
+            <field name="key">Max Aperture Value</field>
+            <field name="value">F2</field>
+        </value>
+        <value>
+            <field name="key">Exposure Mode</field>
+            <field name="value">Auto exposure</field>
+        </value>
+        <value>
+            <field name="key">width</field>
+            <field name="value">1000</field>
+        </value>
+        <value>
+            <field name="key">Scene Capture Type</field>
+            <field name="value">Landscape</field>
+        </value>
+        <value>
+            <field name="key">Model</field>
+            <field name="value">X10</field>
+        </value>
+        <value>
+            <field name="key">Custom Rendered</field>
+            <field name="value">Normal process</field>
+        </value>
+        <value>
+            <field name="key">file-name</field>
+            <field name="value">d63f0e965810c7ba4070a35ebbfef6d8.JPG</field>
+        </value>
+        <value>
+            <field name="key">White Balance Mode</field>
+            <field name="value">Auto white balance</field>
+        </value>
+    </field>
+</content>
+<content source="ece-auto-gen" sourceid="41f00cb5-0600-4aa8-9773-9301265b426d" exported-dbid="22828078" type="picture" state="published" publishdate="2020-10-15 16:46:32.0" creationdate="2020-10-15 16:45:49.0" last-modified="2020-10-15 16:46:32.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_incoming" home-section="true"/>
+    <uri>article22828078.ece/72fe27</uri>
+    <priority value="0"/>
+    <creator first-name="Jahn Ivar" last-name="Kjølseth" email-address="jahnikjolseth90@gmail.com" username="jahnik"/>
+    <author uri="internal:/person/46577" username="jahnik" first-name="Jahn" last-name="Ivar Kjølseth" email-address="jahnikjolseth90@gmail.com"/>
+    <field name="title">4H0A0096.jpg</field>
+    <field name="caption">Handelshøyskolen campus ntnu</field>
+    <field name="photographer">Jahn Ivar Kjølseth</field>
+    <field name="binary" title="4H0A0096.jpg">4H0A0096_binary_22828078.jpg</field>
+    <field name="com.escenic.defaultmetadata">
+        <value>
+            <field name="key">Lens Model</field>
+            <field name="value">EF24-70mm f/2.8L II USM</field>
+        </value>
+        <value>
+            <field name="key">Exif Version</field>
+            <field name="value">2.31</field>
+        </value>
+        <value>
+            <field name="key">Thumbnail Compression</field>
+            <field name="value">JPEG (old-style)</field>
+        </value>
+        <value>
+            <field name="key">Focal Length</field>
+            <field name="value">39.0 mm</field>
+        </value>
+        <value>
+            <field name="key">Sub-Sec Time Digitized</field>
+            <field name="value">00</field>
+        </value>
+        <value>
+            <field name="key">com.escenic.binary.version</field>
+            <field name="value">2</field>
+        </value>
+        <value>
+            <field name="key">Date/Time Original</field>
+            <field name="value">2020:10:15 13:57:10</field>
+        </value>
+        <value>
+            <field name="key">Shutter Speed Value</field>
+            <field name="value">1/30 sec</field>
+        </value>
+        <value>
+            <field name="key">X Resolution</field>
+            <field name="value">240 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">X Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">Focal Plane Resolution Unit</field>
+            <field name="value">Inches</field>
+        </value>
+        <value>
+            <field name="key">Unknown tag (0x9010)</field>
+            <field name="value">+02:00</field>
+        </value>
+        <value>
+            <field name="key">F-Number</field>
+            <field name="value">F2.8</field>
+        </value>
+        <value>
+            <field name="key">Sensitivity Type</field>
+            <field name="value">Recommended Exposure Index</field>
+        </value>
+        <value>
+            <field name="key">Application Record Version</field>
+            <field name="value">4</field>
+        </value>
+        <value>
+            <field name="key">Time Created</field>
+            <field name="value">135710</field>
+        </value>
+        <value>
+            <field name="key">Exposure Program</field>
+            <field name="value">Program normal</field>
+        </value>
+        <value>
+            <field name="key">height</field>
+            <field name="value">1365</field>
+        </value>
+        <value>
+            <field name="key">mime-type</field>
+            <field name="value">image/jpeg</field>
+        </value>
+        <value>
+            <field name="key">format</field>
+            <field name="value">JPEG</field>
+        </value>
+        <value>
+            <field name="key">Exposure Time</field>
+            <field name="value">1/30 sec</field>
+        </value>
+        <value>
+            <field name="key">ISO Speed Ratings</field>
+            <field name="value">125</field>
+        </value>
+        <value>
+            <field name="key">Make</field>
+            <field name="value">Canon</field>
+        </value>
+        <value>
+            <field name="key">Metering Mode</field>
+            <field name="value">Multi-segment</field>
+        </value>
+        <value>
+            <field name="key">Body Serial Number</field>
+            <field name="value">043024001610</field>
+        </value>
+        <value>
+            <field name="key">Focal Plane Y Resolution</field>
+            <field name="value">486/1920000 inches</field>
+        </value>
+        <value>
+            <field name="key">Lens Specification</field>
+            <field name="value">24/1 70/1 0/0 0/0</field>
+        </value>
+        <value>
+            <field name="key">Lens Serial Number</field>
+            <field name="value">4140002062</field>
+        </value>
+        <value>
+            <field name="key">Software</field>
+            <field name="value">Adobe Lightroom 3.2 (Windows)</field>
+        </value>
+        <value>
+            <field name="key">Date Created</field>
+            <field name="value">Thu Oct 15 00:00:00 CEST 2020</field>
+        </value>
+        <value>
+            <field name="key">original-mime-type</field>
+            <field name="value">image/jpeg</field>
+        </value>
+        <value>
+            <field name="key">Y Resolution</field>
+            <field name="value">240 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">Y Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">content-length</field>
+            <field name="value">1616672</field>
+        </value>
+        <value>
+            <field name="key">Focal Plane X Resolution</field>
+            <field name="value">487/1920000 inches</field>
+        </value>
+        <value>
+            <field name="key">Sub-Sec Time Original</field>
+            <field name="value">00</field>
+        </value>
+        <value>
+            <field name="key">last-modified</field>
+            <field name="value">1602773149000</field>
+        </value>
+        <value>
+            <field name="key">Color Space</field>
+            <field name="value">sRGB</field>
+        </value>
+        <value>
+            <field name="key">Date/Time Digitized</field>
+            <field name="value">2020:10:15 13:57:10</field>
+        </value>
+        <value>
+            <field name="key">Flash</field>
+            <field name="value">Flash did not fire, auto</field>
+        </value>
+        <value>
+            <field name="key">Aperture Value</field>
+            <field name="value">F2.8</field>
+        </value>
+        <value>
+            <field name="key">Date/Time</field>
+            <field name="value">2020:10:15 16:07:39</field>
+        </value>
+        <value>
+            <field name="key">Recommended Exposure Index</field>
+            <field name="value">125</field>
+        </value>
+        <value>
+            <field name="key">Resolution Unit</field>
+            <field name="value">Inch</field>
+        </value>
+        <value>
+            <field name="key">Resolution Unit</field>
+            <field name="value">Inch</field>
+        </value>
+        <value>
+            <field name="key">Exposure Bias Value</field>
+            <field name="value">0 EV</field>
+        </value>
+        <value>
+            <field name="key">Max Aperture Value</field>
+            <field name="value">F2.8</field>
+        </value>
+        <value>
+            <field name="key">Exposure Mode</field>
+            <field name="value">Auto exposure</field>
+        </value>
+        <value>
+            <field name="key">width</field>
+            <field name="value">2048</field>
+        </value>
+        <value>
+            <field name="key">Scene Capture Type</field>
+            <field name="value">Standard</field>
+        </value>
+        <value>
+            <field name="key">Model</field>
+            <field name="value">Canon EOS 5D Mark III</field>
+        </value>
+        <value>
+            <field name="key">Custom Rendered</field>
+            <field name="value">Normal process</field>
+        </value>
+        <value>
+            <field name="key">file-name</field>
+            <field name="value">4H0A0096.jpg</field>
+        </value>
+        <value>
+            <field name="key">White Balance Mode</field>
+            <field name="value">Auto white balance</field>
+        </value>
+    </field>
+</content>
+<content source="ece-auto-gen" sourceid="e7d6043d-9eff-4425-b94c-00164e3a1796" exported-dbid="22826032" type="news" state="published" publishdate="2020-10-16 06:00:00.0" creationdate="2020-10-15 12:38:05.0" activatedate="2020-10-16 06:00:00.0" last-modified="2020-10-15 15:33:34.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_frontpage"/>
+    <section-ref unique-name="forskning" home-section="true"/>
+    <uri>2020/10/16/Ansatte-etterlyser-åpenhet-omkring-tildeling-av-forskningstermin-22826032.ece</uri>
+    <relation type="teaserRel" source="ece-auto-gen" sourceid="a65356f6-03c0-4aab-9410-2d6ef2f60536" exported-dbid="22826490">
+        <field name="title">Skjermbilde 2020-10-15 kl. 13.31.17.png</field>
+        <field name="caption">Forskningstermin - med faglitteratur og globen foran seg: Slitne akademikeres våte drøm. For mange er det fjern drøm.</field>
+        <field name="photographer">UiB</field>
+    </relation>
+    <relation type="topRel" source="ece-auto-gen" sourceid="a65356f6-03c0-4aab-9410-2d6ef2f60536" exported-dbid="22826490">
+        <field name="title">Skjermbilde 2020-10-15 kl. 13.31.17.png</field>
+        <field name="caption">Forskningstermin - med faglitteratur og globen foran seg: Slitne akademikeres våte drøm. For mange er det fjern drøm.</field>
+        <field name="photographer">UiB</field>
+    </relation>
+    <relation type="pageRel" source="ece-auto-gen" sourceid="29384317-3ebd-4a03-badd-8d7c7b506b6c" exported-dbid="22826475">
+        <field name="title">Kriteriene</field>
+    </relation>
+    <priority value="0"/>
+    <creator first-name="Tore" last-name="Oksholen" username="toksholen"/>
+    <author uri="internal:/person/44817" username="toksholen" first-name="Tore" last-name="Oksholen"/>
+    <field name="kicker"/>
+    <field name="title" name="title2">Ansatte etterlyser åpenhet omkring tildeling av forskningstermin</field>
+    <field name="leadtext">Uro ved Det humanistiske fakultet: Frustrerte ansatte som har søkt om forskningstermin og fått avslag etterlyser transparens i tildelingsprosessen.</field>
+    <field name="body">
+        <p xmlns="">Universitetsavisa er kjent med at det er en del uro blant vitenskapelig ansatte ved HF-fakultetet i forbindelse med tildeling av forskningstermin for 2020/21. Det stilles spørsmål ved kriteriene for tildelingene som er gjort. Flere vi har snakket med etterlyser transparens i beslutningsprosessen.</p>
+        <p xmlns="">Humanistisk fakultet har hatt anstrengt økonomi i en årrekke, og tilgangen til forskningstermin har vært sparsom, til dels ikke-eksisterende. Denne høsten ble seks vitenskapelig ansatte tilgodesett – til sammenlikning er det tilsvarende antallet ved «nabofakultetet» Fakultet for samfunns- og utdanningsvitenskap 41 denne høsten.</p>
+        <p xmlns="">
+            <strong>LES OGSÅ: 
+                <a href="https://www.universitetsavisa.no/forskning/2016/03/04/NTNU-satsing-skal-få-flere-forskere-til-å-oppholde-seg-utenlands-i-ett-år-18367740.ece" target="_blank">NTNU-satsing skal få flere forskere til å ta termin</a>
+            </strong>
+        </p>
+        <h2 xmlns="">17 fikk avslag</h2>
+        <p xmlns="">Samtidig sitter en del ansatte som har søkt og fått avslag igjen med ubesvarte spørsmål med hensyn til søknadsprosessen, etter hva UA erfarer.</p>
+        <p xmlns="">Til sammen 17 personer fikk sine søknader om forskningstermin avslått denne høsten. De 17 kjenner til hverandres identiteter, ettersom fakultetet sendte avslaget i form av et brev, vedlagt en felles epost hvor samtlige 17 lå i adressatfeltet.</p>
+        <p xmlns="">UA har henvendt seg til en del av dem som fikk avslag. Ingen vil la seg intervjue med åpen identitet, noen begrunner det med at man frykter at åpent formulert kritikk skal straffe seg ved en senere anledning.</p>
+        <h2 xmlns="">- Utydelige kriterier</h2>
+        <p xmlns="">Da UA henvendte seg til HF-fakultetet og ba om å få sendt over navnene på de seks som ble tilkjent forskningstermin, ble vi i stedet henvist til NIRS (NTNU International Researcher Support). </p>
+        <p xmlns="">Kort tid etter at vi mottok dette svaret, publiserte fakultetsadministrasjonen selv navnelista på sitt intranett.</p>
+        <p xmlns="">Selv om det på NTNUs søkerside listes opp en rad kriterier for å få forskertermin, oppleves disse som utydelige. Dels er det diffust hvordan de operasjonaliseres, dels sies det lite om ulike kriterier vektes ulikt.</p>
+        <p xmlns="">Dermed oppstår betydelig rom for skjønn. Hvordan prioriteres det mellom ulike søkere? Hvem, hvilke instanser, er det som prioriterer? Dette er blant spørsmålene endel ansatte stiller seg.</p>
+        <p xmlns="">«Det dannes grunnlag for å undres over om det tas hensyn som ikke skal tas,» sier én. En annen: «Jeg lurer jo på om det er vits i å søke i det hele tatt. Ressursene er så knappe, og man kan lure på hvilke faktorer det er som faktisk blir utslagsgivende.»</p>
+        <h2 xmlns="">Administrativ funksjon vektes</h2>
+        <p xmlns="">Tidligere ble forskningstermin tildelt i vesentlig grad på basis av ansiennitet. I dag tas det også hensyn til at søkeren har fylt administrative funksjoner – vært instituttleder – og behøver tid til faglig oppdatering, vektes også tungt. Siden det er mindre igjen å fordele, blir hensyn til denne siste gruppen mer tungtveiende.</p>
+        <p xmlns="">I dag viser statuttene til hensyn som «instituttets faglige utviklingsbehov» samt «forskerens kvalifikasjoner.» Hvordan slike kriterier omsettes i konkrete vurderinger, er imidlertid for involverte uklart. «Å få forskningstermin blir som å vinne i lotto,» sier en av dem UA har snakket med.</p>
+        <h2 xmlns="">Børresen: - Snakk med instituttleder</h2>
+        <p xmlns="">
+            <relation source="ece-auto-gen" sourceid="7530772e-21b3-443e-9fdf-44399395c6b3" xmlns="http://xmlns.escenic.com/2009/import">
+                <field name="title">Anne Kristine Børresen</field>
+                <field name="caption">Dekan Anne Kristine Børresen forklarer få tildelinger av forskningstermin med fakultetets sviktende økonomi.</field>
+                <field name="photographer">Espen Halvorsen Bjørgan</field>
+            </relation> 
+        </p>
+    </field>
+</content>
+<content source="ece-auto-gen" sourceid="7530772e-21b3-443e-9fdf-44399395c6b3" exported-dbid="20004979" type="picture" state="published" publishdate="2019-09-23 13:33:50.0" creationdate="2019-09-23 13:32:31.0" last-modified="2019-12-17 12:58:14.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_frontpage"/>
+    <section-ref unique-name="ece_incoming" home-section="true"/>
+    <uri>article20004979.ece/rywjjc</uri>
+    <priority value="0"/>
+    <creator first-name="Espen Halvorsen" last-name="Bjørgan" username="espenhb"/>
+    <author uri="internal:/person/44825" username="espenhb" first-name="Espen" last-name="Halvorsen Bjørgan"/>
+    <field name="title">Anne Kristine Børresen</field>
+    <field name="caption">Anne Kristine Børresen</field>
+    <field name="photographer">Espen Halvorsen Bjørgan</field>
+    <field name="binary" title="Fakultetsstyremote_230919_HF (1 of 29).jpg">Fakultetsstyremote_230919_HF (1 of 29)_binary_20004979.jpg</field>
+    <field name="alternates">{"master-wide":{"output":{},"crop":{"x":0,"width":2000,"y":292,"height":667}},"master-default":{"output":{"width":1980,"height":1114},"crop":{"x":0,"width":2000,"y":71,"height":1125}},"master-portrait":{"output":{},"crop":{"x":763,"width":888,"y":0,"height":1333}}}</field>
+    <field name="com.escenic.defaultmetadata">
+        <value>
+            <field name="key">Lens Model</field>
+            <field name="value">EF70-200mm f/2.8L IS II USM</field>
+        </value>
+        <value>
+            <field name="key">Exif Version</field>
+            <field name="value">2.30</field>
+        </value>
+        <value>
+            <field name="key">Thumbnail Compression</field>
+            <field name="value">JPEG (old-style)</field>
+        </value>
+        <value>
+            <field name="key">Focal Length</field>
+            <field name="value">200.0 mm</field>
+        </value>
+        <value>
+            <field name="key">Sub-Sec Time Digitized</field>
+            <field name="value">85</field>
+        </value>
+        <value>
+            <field name="key">com.escenic.binary.version</field>
+            <field name="value">2</field>
+        </value>
+        <value>
+            <field name="key">Date/Time Original</field>
+            <field name="value">2019:09:23 09:55:19</field>
+        </value>
+        <value>
+            <field name="key">Shutter Speed Value</field>
+            <field name="value">1/159 sec</field>
+        </value>
+        <value>
+            <field name="key">X Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">X Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">Focal Plane Resolution Unit</field>
+            <field name="value">cm</field>
+        </value>
+        <value>
+            <field name="key">F-Number</field>
+            <field name="value">F2.8</field>
+        </value>
+        <value>
+            <field name="key">Sensitivity Type</field>
+            <field name="value">Recommended Exposure Index</field>
+        </value>
+        <value>
+            <field name="key">Application Record Version</field>
+            <field name="value">4</field>
+        </value>
+        <value>
+            <field name="key">Time Created</field>
+            <field name="value">095519</field>
+        </value>
+        <value>
+            <field name="key">Exposure Program</field>
+            <field name="value">Manual control</field>
+        </value>
+        <value>
+            <field name="key">height</field>
+            <field name="value">1333</field>
+        </value>
+        <value>
+            <field name="key">mime-type</field>
+            <field name="value">image/jpeg</field>
+        </value>
+        <value>
+            <field name="key">format</field>
+            <field name="value">JPEG</field>
+        </value>
+        <value>
+            <field name="key">Exposure Time</field>
+            <field name="value">1/160 sec</field>
+        </value>
+        <value>
+            <field name="key">ISO Speed Ratings</field>
+            <field name="value">1000</field>
+        </value>
+        <value>
+            <field name="key">Make</field>
+            <field name="value">Canon</field>
+        </value>
+        <value>
+            <field name="key">Metering Mode</field>
+            <field name="value">Spot</field>
+        </value>
+        <value>
+            <field name="key">Body Serial Number</field>
+            <field name="value">043024019736</field>
+        </value>
+        <value>
+            <field name="key">Focal Plane Y Resolution</field>
+            <field name="value">1/1520 cm</field>
+        </value>
+        <value>
+            <field name="key">Lens Specification</field>
+            <field name="value">70/1 200/1 0/0 0/0</field>
+        </value>
+        <value>
+            <field name="key">Lens Serial Number</field>
+            <field name="value">0000400a63</field>
+        </value>
+        <value>
+            <field name="key">Software</field>
+            <field name="value">Adobe Photoshop Lightroom Classic 8.0 (Macintosh)</field>
+        </value>
+        <value>
+            <field name="key">Date Created</field>
+            <field name="value">Mon Sep 23 00:00:00 CEST 2019</field>
+        </value>
+        <value>
+            <field name="key">original-mime-type</field>
+            <field name="value">image/jpeg</field>
+        </value>
+        <value>
+            <field name="key">Y Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">Y Resolution</field>
+            <field name="value">72 dots per inch</field>
+        </value>
+        <value>
+            <field name="key">content-length</field>
+            <field name="value">1466334</field>
+        </value>
+        <value>
+            <field name="key">Focal Plane X Resolution</field>
+            <field name="value">1/1520 cm</field>
+        </value>
+        <value>
+            <field name="key">Sub-Sec Time Original</field>
+            <field name="value">85</field>
+        </value>
+        <value>
+            <field name="key">last-modified</field>
+            <field name="value">1569238351000</field>
+        </value>
+        <value>
+            <field name="key">Color Space</field>
+            <field name="value">sRGB</field>
+        </value>
+        <value>
+            <field name="key">Date/Time Digitized</field>
+            <field name="value">2019:09:23 09:55:19</field>
+        </value>
+        <value>
+            <field name="key">Flash</field>
+            <field name="value">Flash did not fire, auto</field>
+        </value>
+        <value>
+            <field name="key">Aperture Value</field>
+            <field name="value">F2.8</field>
+        </value>
+        <value>
+            <field name="key">Date/Time</field>
+            <field name="value">2019:09:23 13:28:48</field>
+        </value>
+        <value>
+            <field name="key">Recommended Exposure Index</field>
+            <field name="value">1000</field>
+        </value>
+        <value>
+            <field name="key">Resolution Unit</field>
+            <field name="value">Inch</field>
+        </value>
+        <value>
+            <field name="key">Resolution Unit</field>
+            <field name="value">Inch</field>
+        </value>
+        <value>
+            <field name="key">Exposure Bias Value</field>
+            <field name="value">0 EV</field>
+        </value>
+        <value>
+            <field name="key">Max Aperture Value</field>
+            <field name="value">F2.8</field>
+        </value>
+        <value>
+            <field name="key">Exposure Mode</field>
+            <field name="value">Manual exposure</field>
+        </value>
+        <value>
+            <field name="key">width</field>
+            <field name="value">2000</field>
+        </value>
+        <value>
+            <field name="key">Scene Capture Type</field>
+            <field name="value">Standard</field>
+        </value>
+        <value>
+            <field name="key">Model</field>
+            <field name="value">Canon EOS 6D</field>
+        </value>
+        <value>
+            <field name="key">Custom Rendered</field>
+            <field name="value">Normal process</field>
+        </value>
+        <value>
+            <field name="key">file-name</field>
+            <field name="value">Fakultetsstyremote_230919_HF (1 of 29).jpg</field>
+        </value>
+        <value>
+            <field name="key">White Balance Mode</field>
+            <field name="value">Auto white balance</field>
+        </value>
+    </field>
+</content>
+<content source="ece-auto-gen" sourceid="a65356f6-03c0-4aab-9410-2d6ef2f60536" exported-dbid="22826490" type="picture" state="published" publishdate="2020-10-15 13:32:43.0" creationdate="2020-10-15 13:31:37.0" last-modified="2020-10-15 13:32:43.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_frontpage"/>
+    <section-ref unique-name="ece_incoming" home-section="true"/>
+    <uri>article22826490.ece/2mnwea</uri>
+    <priority value="0"/>
+    <creator first-name="Tore" last-name="Oksholen" username="toksholen"/>
+    <author uri="internal:/person/44817" username="toksholen" first-name="Tore" last-name="Oksholen"/>
+    <field name="title">Skjermbilde 2020-10-15 kl. 13.31.17.png</field>
+    <field name="caption">Forskningstermin - med faglitteratur og globen foran seg: Slitne akademikeres våte drøm. For mange er det fjern drøm.</field>
+    <field name="photographer">UiB</field>
+    <field name="binary" title="Skjermbilde 2020-10-15 kl. 13.31.17.png">Skjermbilde 2020-10-15 kl. 13.31.17_binary_22826490.png</field>
+    <field name="com.escenic.defaultmetadata">
+        <value>
+            <field name="key">last-modified</field>
+            <field name="value">1602761497000</field>
+        </value>
+        <value>
+            <field name="key">content-length</field>
+            <field name="value">2137852</field>
+        </value>
+        <value>
+            <field name="key">mime-type</field>
+            <field name="value">image/png</field>
+        </value>
+        <value>
+            <field name="key">format</field>
+            <field name="value">png</field>
+        </value>
+        <value>
+            <field name="key">width</field>
+            <field name="value">2036</field>
+        </value>
+        <value>
+            <field name="key">file-name</field>
+            <field name="value">Skjermbilde 2020-10-15 kl. 13.31.17.png</field>
+        </value>
+        <value>
+            <field name="key">com.escenic.binary.version</field>
+            <field name="value">2</field>
+        </value>
+        <value>
+            <field name="key">original-mime-type</field>
+            <field name="value">image/png</field>
+        </value>
+        <value>
+            <field name="key">height</field>
+            <field name="value">1290</field>
+        </value>
+    </field>
+</content>
+<content source="ece-auto-gen" sourceid="94146564-9607-4d07-8bad-9a077478328f" exported-dbid="22592105" type="html" state="published" publishdate="2020-09-01 14:05:04.0" creationdate="2020-09-01 14:05:02.0" last-modified="2020-09-01 14:05:04.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_incoming" home-section="true"/>
+    <uri>article22592105.ece</uri>
+    <priority value="0"/>
+    <creator first-name="Tore" last-name="Oksholen" username="toksholen"/>
+    <author uri="internal:/person/44817" username="toksholen" first-name="Tore" last-name="Oksholen"/>
+    <field name="title">Instagram Fattig student</field>
+    <field name="code">&lt;blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CBfYR8DJ2eE/?utm_source=ig_embed&amp;amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"&gt;&lt;div style="padding:16px;"&gt; &lt;a href="https://www.instagram.com/p/CBfYR8DJ2eE/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"&gt; &lt;div style=" display: flex; flex-direction: row; align-items: center;"&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 19% 0;"&gt;&lt;/div&gt; &lt;div style="display:block; height:50px; margin:0 auto 12px; width:50px;"&gt;&lt;svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"&gt;&lt;g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;&lt;g transform="translate(-511.000000, -20.000000)" fill="#000000"&gt;&lt;g&gt;&lt;path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style="padding-top: 8px;"&gt; &lt;div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"&gt; Se dette innlegget på Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style="padding: 12.5% 0;"&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"&gt;&lt;div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"&gt;&lt;/div&gt; &lt;div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: 8px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style="margin-left: auto;"&gt; &lt;div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"&gt;&lt;/div&gt; &lt;div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"&gt;&lt;/div&gt; &lt;div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"&gt;&lt;a href="https://www.instagram.com/p/CBfYR8DJ2eE/?utm_source=ig_embed&amp;amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank"&gt;Et innlegg delt av FATTIG STUDENT (@fattig.student)&lt;/a&gt; &lt;time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2020-06-16T09:05:29+00:00"&gt;Juni 16, 2020 kl. 2:05 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async src="//www.instagram.com/embed.js"&gt;&lt;/script&gt;</field>
+</content>
+<content source="ece-auto-gen" sourceid="81b0f412-ca8d-4e0e-b016-a800378c089f" exported-dbid="22591524" type="news" state="published" publishdate="2020-09-01 14:11:56.0" creationdate="2020-09-01 12:55:54.0" last-modified="2020-09-01 14:11:56.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_frontpage"/>
+    <section-ref unique-name="student" home-section="true"/>
+    <uri>2020/09/01/Tjente-25-mill-på-«Fattig-student»-22591524.ece</uri>
+    <relation type="teaserRel" source="ece-auto-gen" sourceid="7d471fbc-8a10-4a2f-b9ff-727725343dc9" exported-dbid="20168400">
+        <field name="title">DSC04870.jpg</field>
+        <field name="caption">Karen Elene Thorsen, Uka 2019, fattig student, instangram</field>
+        <field name="photographer">Helene Mariussen</field>
+    </relation>
+    <relation type="topRel" source="ece-auto-gen" sourceid="fba1fbad-7034-4d29-b3a8-099512261abc" exported-dbid="20168398">
+        <field name="title">DSC04885.jpg</field>
+        <field name="kicker"/>
+        <field name="caption">Karen Elene Thorsen har tjent gode penger på konseptet «Fattig studeent. Nå har hun også lansert en app som har fått navnet «Sulten». </field>
+        <field name="photographer">Helene Mariussen</field>
+    </relation>
+    <priority value="0"/>
+    <creator first-name="Tore" last-name="Oksholen" username="toksholen"/>
+    <author uri="internal:/person/44817" username="toksholen" first-name="Tore" last-name="Oksholen"/>
+    <field name="title">Tjente 2,5 mill på «Fattig student»</field>
+    <field name="leadtext">Da UA intervjuet Karen Elene Thorsen forklarte hun hvordan man som student kan greie seg med 400 kroner på mat i uka. I fjor tjente hun 2,5 millioner på å gi matråd til studenter som vil leve billig.</field>
+    <field name="body">
+        <p xmlns="">- Hemmeligheten er bare at jeg bruker absolutt alt jeg kjøper inn. Å ha en plan for innkjøpene gjør at man kaster mindre mat og dermed bruker mindre penger, 
+            <a href="https://www.universitetsavisa.no/incoming/2019/10/16/Nesten-200-000-nordmenn-følger-med-på-hva-Karen-lager-til-middag-20168275.ece" target="_blank">forklarte Thorsen til UAs reporter for et halvt år siden</a> da hun ble bedt om å redegjøre for ideen bak «Fattig student.»
+        </p>
+        <p xmlns="">Da hadde studenten fra Flekkefjord rukket å få 18 000 følgere på Instagram-kontoen med navnet Fattig student. Kontoen ble oppdatert på hva hun handler inn hver uke. Ved siden av å gi råd om mat via Instagram, VG-TV og skrive bok om samme tema, jobbet Thorsen med en bachelor i livsstilsendring og folkehelse ved Høyskolen Kristiania i Oslo.</p>
+        <p xmlns="">
+            <relation source="ece-auto-gen" sourceid="4fea1686-daf7-4638-a84f-0db8db780aec" xmlns="http://xmlns.escenic.com/2009/import">
+                <field name="title">DSC04894.jpg</field>
+                <field name="caption">- Jeg kan til og med få spørsmål om hvor lenge man skal koke poteter. Det er sikkert mange som alltid har fått middagen servert av foreldrene, og ikke har prøvd seg på kjøkkenet før de flyttet hjemmefra, forteller Thorsen. Her gir hun råd til studenter som møtte fram i Klubben i Samfudnet for å få gode råd om billig mat på hybelen.</field>
+                <field name="photographer">Helene Mariussen</field>
+            </relation> 
+        </p>
+        <h2 xmlns="">Fra 50 000 til 2,5 mill</h2>
+        <p xmlns="">Nå, tre år senere, har livet snudd for 23-åringen fra Flekkefjord. Ifølge ligningstall 
+            <a href="https://www.dn.no/marked/karen-elene-thorsen/instagram/fattigstudent-dro-inn-nesten-25-millioner-kroner-det-er-helt-surrealistisk/2-1-866645" target="_blank">Dagens Næringsliv</a> har hentet ut på Thorsen, tjente hun rett under 2,5 millioner kroner før skatt i fjor. Det står i følge avisa i sterk kontrast til året før, da hun var oppført med en inntekt på drøye 50.000 kroner. Halvparten av inntektene kommer fra salget av boka med tittel «Fattig student.»
+        </p>
+        <p xmlns="">
+            <relation source="ece-auto-gen" sourceid="94146564-9607-4d07-8bad-9a077478328f" xmlns="http://xmlns.escenic.com/2009/import">
+                <field name="title">Instagram Fattig student</field>
+            </relation> 
+        </p>
+        <p xmlns="">I disse dager har Thorsen også lansert en app som har fått navnet «Sulten». Thorsen skriver på Instagram mandag at appen, en uke etter lansering, har fått over 40.000 nedlastinger.</p>
+        <h2 xmlns="">Var livredd konseptet skulle være teit</h2>
+        <p xmlns="">Da Thorsen først skulle opprette kontoen var hun usikker.</p>
+        <p xmlns="">– Du vet de folka som sier at de skal bli artister, men ikke kan synge? Jeg var livredd for at konseptet skulle være teit, og startet dermed kontoen anonymt, ler Thorsen.</p>
+        <p xmlns="">Plutselig begynte hun å få mange følgere. Det ble også mange spørsmål i innboksen. På spørsmål fra UAs reporter om hva studentene spør om, svarte Thorsen at det kunne være alt mulig.</p>
+        <p xmlns="">- Jeg kan til og med få spørsmål om hvor lenge man skal koke poteter. Det er sikkert mange som alltid har fått middagen servert av foreldrene, og ikke har prøvd seg på kjøkkenet før de flyttet hjemmefra. Innboksen min er helt sprengt, så nå har jeg ikke lenger nok timer i døgnet til å svare alle, men jeg prøver å lese det som kommer inn.</p>
+        <p xmlns="">
+            <strong>Følg UA på 
+                <a href="https://www.facebook.com/Universitetsavisa">Facebook</a>, 
+                <a href="https://twitter.com/Universitetavis">Twitter</a> og 
+                <a href="https://www.instagram.com/universitetsavisa/">Instagram</a>.
+            </strong>
+        </p>
+        <h2 xmlns="">Nybø ba om hjelp</h2>
+        <p xmlns="">Thorsen en noe uforutsett henvendelse i fjor sommer. Daværende forsknings- og høyere utdanningsminister Iselin Nybø ba henne om hjelp da statsråden selv skulle leve én uke på studentbudsjett. </p>
+        <p xmlns="">– Jeg fikk spørsmål om jeg ville være med henne og handle maten for uka. Hun har et hektisk liv og tar gjerne en Toro-suppe spontant når hun er sulten, ifølge Thorsen.</p>
+        <p xmlns="">Thorsen bruker omlag 400 kroner på mat i uka, mens en gjennomsnittlig student bruker rundt 800 kroner.</p>
+        <h2 xmlns="">Nøkkel: Gjenbruk</h2>
+        <p xmlns="">Før man starter på handlelista råder Thorsen til å skrive ned ukas første middag man har lyst på. Når du har denne idéen klar, må du til neste rett lage noe som har noenlunde de samme ingrediensene som første middag, samtidig som du kan legge til et par ingredienser. Dette gjentas også ved middag nummer tre.</p>
+        <p xmlns="">Etter å ha fått en god lengde på handlelista må du ved fjerde og siste middag kun bruke ingredienser som er igjen fra de tre tidligere måltidene.</p>
+        <p xmlns="">Så spørs det om Karen Helene Thorsen fortsatt følger sine egne råd fullt ut. «Fattig student» er blitt en holden student.</p>
+    </field>
+</content>
+<content source="ece-auto-gen" sourceid="36882e6d-2252-49cc-a0b0-f8e852079095" exported-dbid="22762371" type="news" state="published" publishdate="2020-10-15 06:00:00.0" creationdate="2020-10-02 14:52:50.0" activatedate="2020-10-15 06:00:00.0" last-modified="2020-10-14 14:55:48.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_frontpage"/>
+    <section-ref unique-name="campus" home-section="true"/>
+    <uri>2020/10/15/Vil-ha-rektor-på-banen-for-å-gå-gjennom-NTNUs-lederstruktur-22762371.ece</uri>
+    <relation type="teaserRel" source="ece-auto-gen" sourceid="4fca6e85-856e-4657-b3fc-e300a28e9966" exported-dbid="22818699">
+        <field name="title">tillitsvalgte5.jpg</field>
+        <field name="caption">Fra venstre: Lisbeth Aune, Sturla Søpstad, Morten Mørch, Thomas Ferstad.</field>
+        <field name="photographer">Mari Rian Hanger</field>
+    </relation>
+    <relation type="topRel" source="ece-auto-gen" sourceid="1c0b705e-fc6c-4c62-91e4-87cc363f9591" exported-dbid="22818697">
+        <field name="title">tillitsvalgte4.jpg</field>
+        <field name="caption">God stemning blant de tillitsvalgte, som nå mener det er på høy tid å se på lederstrukturen ved NTNU. Fra venstre: Lisbeth Aune (Forskerforbundet), Sturla Søpstad (NTL), Morten Mørch (Parat) og Thomas Ferstad (NTL).</field>
+        <field name="photographer">Mari Rian Hanger</field>
+    </relation>
+    <priority value="0"/>
+    <creator first-name="Mari" last-name="Rian Hanger" email-address="mari.r.hanger@ntnu.no" username="maririanh"/>
+    <author uri="internal:/person/44827" username="maririanh" first-name="Mari" last-name="Rian Hanger" email-address="mari.r.hanger@ntnu.no"/>
+    <field name="title">Vil ha rektor på banen for å gå gjennom NTNUs lederstruktur</field>
+    <field name="leadtext">Fagforeningene mener lederstrukturen ved NTNU må gåes grundig gjennom nå når organisasjonsdirektøren slutter. – Ja, det er naturlig å tenke gjennom dette nå, svarer rektor Anne Borg.</field>
+    <field name="body">
+        <p xmlns="">De tillitsvalgte står sammen bak kravet om en gjennomgang av lederstrukturen.</p>
+        <p xmlns="">De har også formidlet dette til rektor.</p>
+        <p xmlns="">– Dette er egentlig noe vi har snakket om i lengre tid, sier Sturla Søpstad, leder i NTL.</p>
+        <p xmlns="">– Men nå når NTNU skal ansette ny organisasjonsdirektør, der det en gylden anledning til å se nærmere på ledelsesstrukturen. Vi bør se nærmere på hva den nye jobben skal inneholde før stillingsannonsen utformes, sier Lisbeth Aune, hovedtillitsvalgt i Forskerforbundet</p>
+        <p xmlns="">- Så nå ønsker vi rektor på banen til en ordentlig gjennomgang, der vi ser ikke bare på organisasjonsdirektøren men på hele NTNU-ledelsen. En slik gjennomgang bør Anne Borg ønske velkommen, sier nestleder i NTL, Thomas Ferstad.</p>
+        <h2 xmlns="">En endret institusjon etter 2016</h2>
+        <p xmlns="">Det er flere årsaker til at de nå mener at man bør se nærmere på ledernes oppgaver. Ferstad påpeker at NTNU har blitt en vesentlig endret institusjon etter sammenslåingen i 2016.</p>
+        <p xmlns="">– Strukturen ble gjennomgått den gang, nå har organisasjonen fått «satt seg» litt, og nå må vi se på dette på nytt, sier Ferstad.</p>
+        <p xmlns="">Kristin Dæhli i Forskerforbundet har tidligere sagt i UA at hun mener 
+            <a href="https://www.universitetsavisa.no/campus/2020/10/01/Ny-organisasjonsdirektør-bør-konsentrere-seg-om-de-ansatte-22748997.ece" target="_blank">ny organisasjonsdirektør bør fokusere på de ansatte, </a>gjennom HR- og HMS-arbeid. 
+        </p>
+        <p xmlns="">Det er ikke alle enige i.</p>
+        <p xmlns="">– Det er andre ting en organisasjonsdirektør bør jobbe med enn HR, det er ikke nødvendig å tråkke i hælene til Arne Hestnes, kommenterer Ferstad.</p>
+        <p xmlns="">Han mener det er viktigere å fordele oppgaver som utfordringene med sviktende budsjetter og samarbeidet gjennom BOTT.</p>
+        <p xmlns="">- Hvordan skal NTNU møte de store utfordringene som kommer, for eksempel administrative kutt? Noen må ha hovedansvaret for strategien til NTNU, sier Ferstad.</p>
+        <h2 xmlns="">Må fordele ansvaret</h2>
+        <p xmlns="">Ferstad mener man må se på hvilken rolle rektor skal ha, sammenlignet med organisasjonsdirektøren.</p>
+        <p xmlns="">– Hvilket ansvar skal ligge under Anne Borg, og hva skal ligge under organisasjonsdirektøren? Og hva med prorektorene? spør han.</p>
+        <p xmlns="">– I dag er det ikke tydelig nok definert hvem som skal drive med hva, slik kan vi ikke ha det. Vi har også digitaliseringsprosjektet og vi har organisasjonsutvikling, det må komme tydelig fram hvem som har ansvaret, utfyller Søpstad.</p>
+        <p xmlns="">Søpstad påpeker at NTNU har mange krav som skal oppfylles.</p>
+        <p xmlns="">– Har vi ledelseskapasitet til å endre alt vi må endre på? Det må komme tydeligere fram hva NTNU skal drive med og ikke drive med, dette er ikke godt nok definert i dag, sier han.</p>
+        <p xmlns="">NTL mener også at organisasjonsdirektøren indirekte fikk for mye makt ved å lede beredskapsarbeidet ved NTNU.</p>
+        <p xmlns="">– Flere av fagforeningene har kritisert dette i Sesam. Saksgrunnlaget beslutninger ble tatt på var ukjent, vedtak var i liten grad forankret i organisasjonen og det var mangel på transparens i beslutningene. Men det er også viktig å huske at dette var en unntakstilstand, med mye armer og bein i en periode, sier Ferstad.</p>
+        <p xmlns="">Han mener alt av beredskapsarbeid må evalueres når situasjonen er under kontroll igjen. </p>
+        <p xmlns="">
+            <strong>Les også: 
+                <a href="https://www.universitetsavisa.no/campus/2020/08/07/Rektor-deltatt-i-to-av-31-møter-i-Sentral-beredskapsledelse-22421480.ece" target="_blank">Rektor deltok i 2 av 31 møter</a>
+            </strong>
+        </p>
+        <p xmlns="">
+            <strong>Les også: 
+                <a href="https://www.universitetsavisa.no/uamener/2020/08/07/Hvorfor-får-vi-ikke-vite-hvordan-beredskapsgruppen-tenker-22434707.ece" target="_blank">Hvorfor får vi ikke vite hvordan beredskapsgruppen tenker? </a>
+            </strong>
+        </p>
+        <h2 xmlns="">Mer toppstyrt ledelse</h2>
+        <p xmlns="">I 2016 ble det avgjort at stabsfunksjonene skulle sentraliseres.</p>
+        <p xmlns="">– Man ønsket seg en fellesadministrasjon som hadde slagkraft. Men det har kanskje ikke fungert så godt. NTNU har autonome fakulteter med sterke personligheter. Balansen mellom fakultetene og fellesadministrasjonen er nok ett punkt man bør se nærmere på, når man skal gå gjennom ledelsesstrukturen, sier Ferstad.</p>
+        <p xmlns="">Søpstad sier ledelsen ved NTNU har blitt mer toppstyrt de siste årene, og Ferstad tilføyer at de ansatte føler de har liten påvirkningskraft.</p>
+        <p xmlns="">– Når de opplever det slik, må man stoppe opp, ta en fot i bakken, og se om man gjør de riktige grepene, sier Ferstad.</p>
+        <p xmlns="">
+            <strong>Les også: 
+                <a href="https://www.universitetsavisa.no/ytring/2019/08/26/Toppstyrte-NTNU-–-hvor-ble-det-av-«kollegiet»-19775287.ece?fbclid=IwAR1n7RohWSsWBPxTepU7IPLHJbC3LUaelQAfQy27x3XG3tD2HpOy5lg3e_c" target="_blank">Toppstyrte NTNU - hvor ble det av kollegiet? </a>
+            </strong>
+        </p>
+        <p xmlns="">Morten Mørch, tillitsvalgt i Parat, påpeker at Gjøvik og Ålesund opplever at de har lite medbestemmelse. Det som i dag er tillagt medbestemmelsesorganene i disse byene kan styrkes og forbedres, mener han.</p>
+        <p xmlns="">– De har ikke blitt godt nok inkludert i enkelte prosesser, dette er en av grunnene til at vi bør se nærmere på ledelsesstrukturen, sier Mørch.</p>
+        <h2 xmlns="">Kan bli større eller mindre justeringer</h2>
+        <p xmlns="">Rektor Anne Borg er enig i at det er naturlig å tenke gjennom lederstrukturen nå.</p>
+        <p xmlns="">– I universitetssektoren har vi et stort skifte av ledere på alle nivåer hvert fjerde år. Ved hvert slikt skifte er det naturlig å tenke gjennom lederstruktur med oppgaver og portefølje. Det kan være snakk om større eller mindre justeringer, på kort eller lengre sikt, svarer Borg i en epost til UA.</p>
+        <p xmlns="">Hun sier ledelsen fortsatt er tidlig i denne prosessen.</p>
+        <p xmlns="">– Jeg er i tenkeboksen når det gjelder innhold og videre prosess. Derfor er det litt for tidlig for meg å svare mer konkret på dette, men jeg vil understreke at det er en selvfølge at vi skal ha en grundig dialog med de tillitsvalgte. De har en viktig rolle ved NTNU i slike sammenhenger, og det er fint at de er på ballen med innspill til prosessen, kommenterer Borg.</p>
+        <h2 xmlns="">Slipper ikke ballen</h2>
+        <p xmlns="">De tillitsvalgte selv kommer ikke til å slippe ballen, lover de.</p>
+        <p xmlns="">- Vi kommer til å snakke med rektor på vegne av våre medlemmer, og si ifra hva vi mener, sier Søpstad.</p>
+        <p xmlns="">
+            <em>– Har dere konkrete forslag til hvordan den nye strukturen bør se ut?</em>
+        </p>
+        <p xmlns="">– Vi har noen forslag, men vi ønsker å diskutere dette direkte med ledelsen først. Det viktigste er at dette nå settes høyt på agendaen, før man lyser ut en ny organisasjonsdirektørstilling, sier Søpstad.</p>
+        <p xmlns="">
+            <strong>Følg UA på 
+                <a href="https://www.facebook.com/Universitetsavisa">Facebook</a>, 
+                <a href="https://twitter.com/Universitetavis">Twitter</a> og 
+                <a href="https://www.instagram.com/universitetsavisa/">Instagram</a>.
+            </strong>
+        </p>
+    </field>
+    <field name="quotesource">Thomas Ferstad</field>
+    <field name="quote">NTNU har autonome fakulteter med sterke personligheter.</field>
+</content>
+<content source="ece-auto-gen" sourceid="29384317-3ebd-4a03-badd-8d7c7b506b6c" exported-dbid="22826475" type="factbox" state="published" publishdate="2020-10-15 13:27:43.0" creationdate="2020-10-15 13:27:40.0" last-modified="2020-10-15 13:27:43.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_incoming" home-section="true"/>
+    <uri>article22826475.ece</uri>
+    <priority value="0"/>
+    <creator first-name="Tore" last-name="Oksholen" username="toksholen"/>
+    <author uri="internal:/person/44817" username="toksholen" first-name="Tore" last-name="Oksholen"/>
+    <field name="title">Kriteriene</field>
+    <field name="leadtext">
+        <p xmlns="">Forskningstermin er et strategisk virkemiddel for å fremme kvalitet i forskningen, internasjonalt samarbeid og for faglig utviklingsarbeid innen utdanning, nyskapning og samfunns- og næringskontakt. NTNUs felles retningslinjer for forskningstermin har følgende kriterier for vurdering av søknader:</p>
+    </field>
+    <field name="factlist">
+        <value>
+            <field name="factitem">Instituttets faglige utviklingsbehov (forskning, nyskaping, utdanning og formidling)</field>
+        </value>
+        <value>
+            <field name="factitem">Utvikling av eksterne (internasjonale) nettverk overfor universiteter og næringsliv</field>
+        </value>
+        <value>
+            <field name="factitem">Lengre faglige opphold i utlandet (min. tre måneder sammenhengende)</field>
+        </value>
+        <value>
+            <field name="factitem">Prosjektets kvalitet og gjennomførbarhet</field>
+        </value>
+        <value>
+            <field name="factitem">Forskerens kvalifikasjoner (faglig produksjon, veiledning, prosjektledelse)</field>
+        </value>
+    </field>
+</content>
+<content source="ece-auto-gen" sourceid="e7d6043d-9eff-4425-b94c-00164e3a1796" exported-dbid="22826032" type="news" state="published" publishdate="2020-10-16 06:00:00.0" creationdate="2020-10-15 12:38:05.0" activatedate="2020-10-16 06:00:00.0" last-modified="2020-10-15 15:33:34.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-ref unique-name="ece_frontpage"/>
+    <section-ref unique-name="forskning" home-section="true"/>
+    <uri>2020/10/16/Ansatte-etterlyser-åpenhet-omkring-tildeling-av-forskningstermin-22826032.ece</uri>
+    <relation type="teaserRel" source="ece-auto-gen" sourceid="a65356f6-03c0-4aab-9410-2d6ef2f60536" exported-dbid="22826490">
+        <field name="title">Skjermbilde 2020-10-15 kl. 13.31.17.png</field>
+        <field name="caption">Forskningstermin - med faglitteratur og globen foran seg: Slitne akademikeres våte drøm. For mange er det fjern drøm.</field>
+        <field name="photographer">UiB</field>
+    </relation>
+    <relation type="topRel" source="ece-auto-gen" sourceid="a65356f6-03c0-4aab-9410-2d6ef2f60536" exported-dbid="22826490">
+        <field name="title">Skjermbilde 2020-10-15 kl. 13.31.17.png</field>
+        <field name="caption">Forskningstermin - med faglitteratur og globen foran seg: Slitne akademikeres våte drøm. For mange er det fjern drøm.</field>
+        <field name="photographer">UiB</field>
+    </relation>
+    <relation type="pageRel" source="ece-auto-gen" sourceid="29384317-3ebd-4a03-badd-8d7c7b506b6c" exported-dbid="22826475">
+        <field name="title">Kriteriene</field>
+    </relation>
+    <priority value="0"/>
+    <creator first-name="Tore" last-name="Oksholen" username="toksholen"/>
+    <author uri="internal:/person/44817" username="toksholen" first-name="Tore" last-name="Oksholen"/>
+    <field name="kicker"/>
+    <field name="title">Ansatte etterlyser åpenhet omkring tildeling av forskningstermin</field>
+    <field name="leadtext">Uro ved Det humanistiske fakultet: Frustrerte ansatte som har søkt om forskningstermin og fått avslag etterlyser transparens i tildelingsprosessen.</field>
+    <field name="body">
+        <p xmlns="">Universitetsavisa er kjent med at det er en del uro blant vitenskapelig ansatte ved HF-fakultetet i forbindelse med tildeling av forskningstermin for 2020/21. Det stilles spørsmål ved kriteriene for tildelingene som er gjort. Flere vi har snakket med etterlyser transparens i beslutningsprosessen.</p>
+        <p xmlns="">Humanistisk fakultet har hatt anstrengt økonomi i en årrekke, og tilgangen til forskningstermin har vært sparsom, til dels ikke-eksisterende. Denne høsten ble seks vitenskapelig ansatte tilgodesett – til sammenlikning er det tilsvarende antallet ved «nabofakultetet» Fakultet for samfunns- og utdanningsvitenskap 41 denne høsten.</p>
+        <p xmlns="">
+            <strong>LES OGSÅ: 
+                <a href="https://www.universitetsavisa.no/forskning/2016/03/04/NTNU-satsing-skal-få-flere-forskere-til-å-oppholde-seg-utenlands-i-ett-år-18367740.ece" target="_blank">NTNU-satsing skal få flere forskere til å ta termin</a>
+            </strong>
+        </p>
+        <h2 xmlns="">17 fikk avslag</h2>
+        <p xmlns="">Samtidig sitter en del ansatte som har søkt og fått avslag igjen med ubesvarte spørsmål med hensyn til søknadsprosessen, etter hva UA erfarer.</p>
+        <p xmlns="">Til sammen 17 personer fikk sine søknader om forskningstermin avslått denne høsten. De 17 kjenner til hverandres identiteter, ettersom fakultetet sendte avslaget i form av et brev, vedlagt en felles epost hvor samtlige 17 lå i adressatfeltet.</p>
+        <p xmlns="">UA har henvendt seg til en del av dem som fikk avslag. Ingen vil la seg intervjue med åpen identitet, noen begrunner det med at man frykter at åpent formulert kritikk skal straffe seg ved en senere anledning.</p>
+        <h2 xmlns="">- Utydelige kriterier</h2>
+        <p xmlns="">Da UA henvendte seg til HF-fakultetet og ba om å få sendt over navnene på de seks som ble tilkjent forskningstermin, ble vi i stedet henvist til NIRS (NTNU International Researcher Support). </p>
+        <p xmlns="">Kort tid etter at vi mottok dette svaret, publiserte fakultetsadministrasjonen selv navnelista på sitt intranett.</p>
+        <p xmlns="">Selv om det på NTNUs søkerside listes opp en rad kriterier for å få forskertermin, oppleves disse som utydelige. Dels er det diffust hvordan de operasjonaliseres, dels sies det lite om ulike kriterier vektes ulikt.</p>
+        <p xmlns="">Dermed oppstår betydelig rom for skjønn. Hvordan prioriteres det mellom ulike søkere? Hvem, hvilke instanser, er det som prioriterer? Dette er blant spørsmålene endel ansatte stiller seg.</p>
+        <p xmlns="">«Det dannes grunnlag for å undres over om det tas hensyn som ikke skal tas,» sier én. En annen: «Jeg lurer jo på om det er vits i å søke i det hele tatt. Ressursene er så knappe, og man kan lure på hvilke faktorer det er som faktisk blir utslagsgivende.»</p>
+        <h2 xmlns="">Administrativ funksjon vektes</h2>
+        <p xmlns="">Tidligere ble forskningstermin tildelt i vesentlig grad på basis av ansiennitet. I dag tas det også hensyn til at søkeren har fylt administrative funksjoner – vært instituttleder – og behøver tid til faglig oppdatering, vektes også tungt. Siden det er mindre igjen å fordele, blir hensyn til denne siste gruppen mer tungtveiende.</p>
+        <p xmlns="">I dag viser statuttene til hensyn som «instituttets faglige utviklingsbehov» samt «forskerens kvalifikasjoner.» Hvordan slike kriterier omsettes i konkrete vurderinger, er imidlertid for involverte uklart. «Å få forskningstermin blir som å vinne i lotto,» sier en av dem UA har snakket med.</p>
+        <h2 xmlns="">Børresen: - Snakk med instituttleder</h2>
+        <p xmlns="">
+            <relation source="ece-auto-gen" sourceid="7530772e-21b3-443e-9fdf-44399395c6b3" xmlns="http://xmlns.escenic.com/2009/import">
+                <field name="title">Anne Kristine Børresen</field>
+                <field name="caption">Dekan Anne Kristine Børresen forklarer få tildelinger av forskningstermin med fakultetets sviktende økonomi.</field>
+                <field name="photographer">Espen Halvorsen Bjørgan</field>
+            </relation> 
+        </p>
+        <p xmlns="">Dekan Anne Kristine Børresen kommenterer kritikken i en epost. Hun viser til at fakultetet har tildelt forskningsterminer i henhold til NTNUs 
+            <a href="https://innsida.ntnu.no/documents/10157/3687607/Felles+retningslinjer+for+forskningstermin.pdf/9a672c87-98fc-4121-9a48-77ad2a7b3233" target="_blank">kriterier for tildeling av forskningstermin</a>, samt i henhold til denne prosessen som er 
+            <a href="https://innsida.ntnu.no/wiki/-/wiki/Norsk/s%c3%b8k+om+forskningstermin" target="_blank">beskrevet på Innsida</a>.
+        </p>
+        <p xmlns="">- Medarbeidere som ikke har fått tildelt forskningstermin, oppfordres til å ta kontakt med sin instituttleder for nærmere begrunnelse av hvorfor de eventuelle ikke nådde opp denne gangen. Vi vet at flere av våre instituttledere har hatt slike samtaler med sine medarbeidere, skriver dekanen.</p>
+        <p xmlns="">Det lave antallet tildelte forskningsterminer forklarer hun slik:</p>
+        <p xmlns="">- I denne tildelingen kunne vi ikke innvilge forskningstermin til mer enn seks personer. Det skyldes HFs økonomi, som er strammere enn den har vært de siste åra. Siden 2016 og frem til den tildelingen som nettopp er avgjort, har vi tildelt 31 personer forskningstermin.</p>
+    </field>
+</content>
+</escenic>
