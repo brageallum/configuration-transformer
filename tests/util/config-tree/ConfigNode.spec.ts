@@ -1,9 +1,9 @@
-import ConfigNode from '../../../../src/util/config-tree/ConfigNode';
-import ConfigNodeArray from '../../../../src/util/config-tree/ConfigNodeArray';
+import ConfigNode from '../../../src/util/config-tree/ConfigNode';
+import ConfigNodeArray from '../../../src/util/config-tree/ConfigNodeArray';
 
 describe('ConfigNode', () => {
     it('wraps around a string', () => {
-        const str = "Hello World!";
+        const str = 'Hello World!';
         const node = new ConfigNode(str);
 
         expect(node.type).toBe('value');
@@ -24,7 +24,9 @@ describe('ConfigNode', () => {
 
         expect(node.children[1]).toBeDefined();
         node.children[1].children.includes(obj.subobj.subobjattr);
-        expect(node.children[1].children.includes(obj.subobj.subobjattr)).toBeTruthy();
+        expect(
+            node.children[1].children.includes(obj.subobj.subobjattr),
+        ).toBeTruthy();
         expect(node.children[1].children[0].path).toBe('subobj.subobjattr');
     });
 

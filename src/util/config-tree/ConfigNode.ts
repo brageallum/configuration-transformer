@@ -43,6 +43,12 @@ export default class ConfigNode {
     get attributes(): StringMap {
         return this._attributes;
     }
+    get attributeAmount(): number {
+        return Object.keys(this._attributes).length;
+    }
+    get key(): ConfigNodeKey {
+        return this._key;
+    }
 
     constructor(
         json: Json,
@@ -85,7 +91,7 @@ export default class ConfigNode {
         return '';
     }
 
-    private _extractChildren(json: Json): ConfigNodeArray {
+    protected _extractChildren(json: Json): ConfigNodeArray {
         if (this._type === 'object') {
             return this._objectChildrenToNodeArray(json);
         } else if (this._type === 'array') {
@@ -95,7 +101,7 @@ export default class ConfigNode {
         }
     }
 
-    private _objectChildrenToNodeArray(json: Json) {
+    protected _objectChildrenToNodeArray(json: Json): ConfigNodeArray {
         const jsonObject = <JsonObject>json;
         return new ConfigNodeArray(
             ...Object.keys(jsonObject).map(
@@ -110,7 +116,7 @@ export default class ConfigNode {
         );
     }
 
-    private _arrayChildrenToNodeArray(json: Json) {
+    protected _arrayChildrenToNodeArray(json: Json): ConfigNodeArray {
         const jsonArray = <Json[]>json;
         return new ConfigNodeArray(
             ...jsonArray.map(

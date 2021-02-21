@@ -9,7 +9,7 @@
   "main": "dist/index.js",
   "scripts": {
     "dev": "nodemon --legacy-watch -e ts,js -w ./src -w ./.env -x ts-node src/index.ts",
-    "lint": "eslint src/**/*.{js,ts} tests/**/*.{js,ts} --fix",
+    "lint": "eslint src/**/*.{js,ts} --fix",
     "pre-commit": "eslint src/**/*.{js,ts} --max-warnings=0",
     "build": "tsc",
     "start": "node dist/index.js",
